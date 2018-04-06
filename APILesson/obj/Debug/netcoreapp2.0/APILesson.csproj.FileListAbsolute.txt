@@ -1,0 +1,11 @@
+C:\Users\Bryan\source\repos\APILesson\APILesson\bin\Debug\netcoreapp2.0\APILesson.deps.json
+C:\Users\Bryan\source\repos\APILesson\APILesson\bin\Debug\netcoreapp2.0\APILesson.runtimeconfig.json
+C:\Users\Bryan\source\repos\APILesson\APILesson\bin\Debug\netcoreapp2.0\APILesson.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\APILesson\APILesson\bin\Debug\netcoreapp2.0\APILesson.dll
+C:\Users\Bryan\source\repos\APILesson\APILesson\bin\Debug\netcoreapp2.0\APILesson.pdb
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.dll
+C:\Users\Bryan\source\repos\APILesson\APILesson\obj\Debug\netcoreapp2.0\APILesson.pdb
